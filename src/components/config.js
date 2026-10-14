@@ -15,13 +15,13 @@ const config = {
 
   // 🔍 Question Page
   searchPlaceholder: "Search Google or type a URL", // Placeholder text in the search input
-  trendingTitle: "Trending searches", // Title for the trending searches section
+  trendingTitle: "Trending searches for the Question Game", // Title for the trending searches section
   trendingSearches: [
-    "Why is my bf so cute?", // Example trending search query
-    "Why does Rheina love him more?", // Another example query
-    `Rheina's birthdate (coz her bf forgets)`, // A personalized trending search
+    "If I was a fart, would you hold me in or fart me out", // Example trending search query
+    "Who is thinking of you when you get the hiccups", // Another example query
+    `How to make Marry Me Pasta: recipe for goofy goobers`, // A personalized trending search
   ],
-  proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
+  proTip: 'Search: "How long have we been together?" ;)', // Helpful tip for users
 
   // ⏳ Timer Page
   anniversaryDate: "2025-10-25", // 📅 Set your anniversary date here (used for the timer)
@@ -101,8 +101,8 @@ const config = {
     messageTitle: "Our Messages", // Title for the messages recap page
     messageGallery: [
       { title: "September 3, 2024", description: "What started it all" }, // Message entry
-      { title: "October 5, 2024", description: "Receiving them with so much like" },
-      { title: "December 25, 2024", description: "Christmas with love ❤️" },
+      { title: "October 28, 2025", description: "Back when you were a Dr.Suri fan" },
+      { title: "January 22, 2026", description: "One of our last 'with so much like' texts" },
     ],
   
     // 📸 Picture Recap Page
@@ -115,7 +115,7 @@ const config = {
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Hi, I love you so much💖", // Message displayed on the love letter page
+  loveLetterMessage: "While you have been working so hard on coding, I thought I could try my own💖", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for being my favorite person 💖 Cheers to our first of many anniversaries to come!", // Closing message displayed
