@@ -118,7 +118,7 @@ const config = {
   loveLetterMessage: "Hi, I love you so much💖", // Message displayed on the love letter page
 
   // 🎇 Closing Page
-  closingMessage: "Thank you for everything, my love! 💖 Wishing us many more wonderful years together.", // Closing message displayed
+  closingMessage: "Thank you for being my favorite person 💖 Cheers to our first of many anniversaries to come!", // Closing message displayed
 
   /* 
   ████████████████████████████████████████
