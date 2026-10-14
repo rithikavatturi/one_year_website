@@ -108,14 +108,16 @@ const config = {
     // 📸 Picture Recap Page
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "January 1, 2024", description: "New Year's Celebration 🎉" }, // Picture entry
-      { title: "February 14, 2024", description: "Valentine's Day 💕" },
-      { title: "March 10, 2024", description: "Beach trip memories 🏖️" },
+      { title: "October 31, 2025", description: "Our first picture together" }, // Picture entry
+      { title: "February 26, 2026", description: "Every facetime ends in negotiating for five extra minutes" },
+      { title: "May 9, 2026", description: "Berkeley day" },
+      { title: "July 24, 2026", description: "Chef and Sous" },
+      { title: "August 9, 2026", description: "Our first concert" },
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "While you have been working so hard on coding, I thought I could try my own💖", // Message displayed on the love letter page
+  loveLetterMessage: "While you have been working so hard on coding, I thought I could try making some fun coding for you💖", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for being my favorite person 💖 Cheers to our first of many anniversaries to come!", // Closing message displayed
