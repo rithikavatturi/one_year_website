@@ -69,7 +69,7 @@ const config = {
       title: "Sue Me",
       artist: "Audrey Hobert",
       left: "30%",
-      top: "75%",
+      top: "70%",
     },
     {
       title: "Love Letter",
