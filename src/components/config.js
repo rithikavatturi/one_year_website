@@ -102,6 +102,7 @@ const config = {
     messageGallery: [
       { title: "September 3, 2024", description: "What started it all" }, // Message entry
       { title: "October 28, 2025", description: "Back when you were a Dr.Suri fan" },
+      { title: "January 5, 2026", description: "So strapped in for this relationship" },
       { title: "January 22, 2026", description: "One of our last 'with so much like' texts" },
     ],
   
