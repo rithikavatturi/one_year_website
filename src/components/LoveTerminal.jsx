@@ -25,7 +25,7 @@ export default function LoveTerminal() {
         </h1>
 
         <p className="text-purple-200 text-center mb-6 text-sm">
-          Since you're always running code, here's a fun one you can deploy.
+          Since you're always grinding out code, here's a fun one you can deploy.
         </p>
 
         <div className="bg-[#101827] rounded-2xl overflow-hidden shadow-2xl border border-slate-600">
@@ -40,7 +40,7 @@ export default function LoveTerminal() {
 
           <div className="p-5 min-h-[260px] font-mono text-sm">
             <p className="text-slate-400">
-              {"// Anniversary compatibility test"}
+              {"// Love compatibility test"}
             </p>
 
             <p className="text-pink-300 mt-3">
