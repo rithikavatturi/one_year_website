@@ -2,8 +2,8 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import {Closing, Letter,Passcode,Question,Recap,Timer,Message,Music,Picture} from './components'
-import './index.css'
 import LoveTerminal from './components/LoveTerminal';
+import './index.css'
 function App() {
   return (
     <Router>
@@ -16,8 +16,8 @@ function App() {
         <Route path="/recap/music" element={<Music />} />
         <Route path="/recap/pictures" element={<Picture />} />
         <Route path="/letter" element={<Letter />} />
-        <Route path="/closing" element={<Closing />} />
         <Route path="/love-terminal" element={<LoveTerminal />} />
+        <Route path="/closing" element={<Closing />} />
       </Routes>
     </Router>
   )
