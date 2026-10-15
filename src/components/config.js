@@ -136,7 +136,7 @@ const config = {
   recapRedirectPath: "/recap", // Path to redirect to the recap page
   recapPreviousPage: "/timer", // Path to the previous page in the recap
   recapNextPage: "/letter", // Path to the next page in the recap
-  letterNextPage: "/closing", // Path to the next page after the letter
+  letterNextPage: "/love-terminal", // Path to the next page after the letter
   letterPreviousPage: "/letter", // Path to the previous page before the letter
   previousPageText: "Previous page", // Text for the previous page button
   nextPageText: "Next page", // Text for the next page button
