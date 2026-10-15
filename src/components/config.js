@@ -121,7 +121,7 @@ const config = {
   loveLetterMessage: "Your work requires you to create code for others, so I wanted to create something for you. Hopefully this code won't need any data cleaning :)", // Message displayed on the love letter page
 
   // 🎇 Closing Page
-  closingMessage: "Thank you for being my favorite person 💖 Cheers to our first of many anniversaries to come! 💖", // Closing message displayed
+  closingMessage: "Thank you for an incredible year 💖 Cheers to our first of many anniversaries to come! 💖", // Closing message displayed
 
   /* 
   ████████████████████████████████████████
