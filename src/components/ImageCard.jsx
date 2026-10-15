@@ -7,7 +7,7 @@ export const ImageCard = ({ imageUrl, altText = "image", title, description }) =
           <img
             src={imageUrl}
             alt={altText}
-            className="w-full h-full object-cover"
+            className="w-full h-full object-contain"
           />
         </div>
         <div className="p-2">
