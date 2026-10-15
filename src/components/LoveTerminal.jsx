@@ -6,14 +6,14 @@ export default function LoveTerminal() {
   const [started, setStarted] = useState(false);
 
   const results = [
-    "Compiling our love story...",
+    "Compiling our love story analytics...",
     "✓ Chemistry detected: 100%",
     "✓ Incredible memories: Unlimited",
     "✓ Errors found: 0",
     "✓ Future together: Confirmed",
     "",
     "❤️ Happy one year to my cutie patootie princess ❤️",
-    "You're my favorite constant and safe space in a world full of variables.",
+    "You're my favorite person, safe space, cheerleader, and partner for any activity.",
     "I love you more than words (or code) can express."
   ];
 
