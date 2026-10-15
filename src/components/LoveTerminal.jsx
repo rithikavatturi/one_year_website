@@ -8,11 +8,11 @@ export default function LoveTerminal() {
   const results = [
     "Compiling our love story...",
     "✓ Chemistry detected: 100%",
-    "✓ Favorite memories: Unlimited",
-    "✓ Bugs found: 0",
+    "✓ Incredible memories: Unlimited",
+    "✓ Errors found: 0",
     "✓ Future together: Confirmed",
     "",
-    "❤️ Happy one year, my love!",
+    "❤️ Happy one year to my cutie patootie princess ❤️",
     "You're my favorite constant and safe space in a world full of variables.",
     "I love you more than words (or code) can express."
   ];
@@ -25,7 +25,7 @@ export default function LoveTerminal() {
         </h1>
 
         <p className="text-purple-200 text-center mb-6 text-sm">
-          Since you're always coding, I thought I'd give it a try.
+          Since you're always running code, here's a fun one you can deploy.
         </p>
 
         <div className="bg-[#101827] rounded-2xl overflow-hidden shadow-2xl border border-slate-600">
