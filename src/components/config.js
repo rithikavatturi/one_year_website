@@ -20,6 +20,7 @@ const config = {
     "If I was a fart, would you hold me in or fart me out", // Example trending search query
     "Who is thinking of you when you get the hiccups", // Another example query
     `How to make Marry Me Pasta: recipe for goofy goobers`, // A personalized trending search
+    `Who ordered the oreo ice cream first on our first date`, 
   ],
   proTip: 'Search: "How long have we been together?" ;)', // Helpful tip for users
 
