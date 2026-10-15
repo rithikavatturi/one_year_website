@@ -12,7 +12,7 @@ export default function LoveTerminal() {
     "✓ Errors found: 0",
     "✓ Future together: Confirmed",
     "",
-    "❤️ Happy one year my cutie patootie princess ❤️",
+    "❤️ Happy one year my love ❤️",
     "You're my favorite person, safe space, cheerleader, and partner for any activity.",
     "I love you more than words (or code) can express."
   ];
