@@ -8,7 +8,7 @@ const config = {
   // 🔐 Passcode Page
   correctPasscode: "1025", // Change this to any 4-digit code (the passcode for access)
   passcodeTitle: "Enter Passcode", // Title displayed on the passcode entry page
-  successMessage: "Yayy!! :)", // Message shown upon successful passcode entry
+  successMessage: "Nice work babe :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
   incorrectPasscodeMessage: "Incorrect passcode, hint: our anniversary date!", // Message shown for incorrect passcode
   cancelButtonText: "Cancel", // Text for the cancel button
@@ -100,7 +100,7 @@ const config = {
     // 📝 Message Recap Page
     messageTitle: "Our Messages", // Title for the messages recap page
     messageGallery: [
-      { title: "September 24, 2025", description: "What started it all" }, // Message entry
+      { title: "September 24, 2025", description: "The message that started it all" }, // Message entry
       { title: "October 28, 2025", description: "Back when you were a Dr.Suri fan" },
       { title: "January 5, 2026", description: "So strapped in for this relationship" },
       { title: "January 22, 2026", description: "One of our last 'with so much like' texts" },
@@ -111,17 +111,17 @@ const config = {
     pictureGallery: [
       { title: "October 31, 2025", description: "Our first picture together" }, // Picture entry
       { title: "February 26, 2026", description: "Every facetime ends in negotiating for five extra minutes" },
-      { title: "May 9, 2026", description: "Berkeley day" },
-      { title: "July 24, 2026", description: "Chef and Sous" },
-      { title: "August 9, 2026", description: "Our first concert" },
+      { title: "May 9, 2026", description: "Our Berkeley day" },
+      { title: "July 24, 2026", description: "Chef maxxing and couple maxxing" },
+      { title: "August 9, 2026", description: "Our first concert together" },
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "You spend your days creating things with code, so I wanted to create something for you. Hopefully this code won't need any data cleaning💖", // Message displayed on the love letter page
+  loveLetterMessage: "Your work requires you to create code for others, so I wanted to create something for you. Hopefully this code won't need any data cleaning :)", // Message displayed on the love letter page
 
   // 🎇 Closing Page
-  closingMessage: "Thank you for being my favorite person 💖 Cheers to our first of many anniversaries to come!💖", // Closing message displayed
+  closingMessage: "Thank you for being my favorite person 💖 Cheers to our first of many anniversaries to come! 💖", // Closing message displayed
 
   /* 
   ████████████████████████████████████████
